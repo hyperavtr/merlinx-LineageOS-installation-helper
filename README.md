@@ -31,7 +31,7 @@ My scripts for LineageOS installlation made in purpose to learn some bash. You c
   <li>
 
   ```bash
-  cd LineageOS
+  cd merlinx-LineageOS-installation-helper
   ```
   </li>
 
