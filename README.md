@@ -5,6 +5,7 @@ My scripts for LineageOS installlation made in purpose to learn some bash. You c
   <h2>Requirements</h2>
   <li>adb.</li>
   <li>xclip.</li>
+  <li>git.</li>
   <li>Unlocked Redmi Note 9(merlinx).</li>
   <li>USB debugging connected.</li>
   <li>Use USB for 'File Transfer'.</li>
